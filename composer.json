@@ -1,0 +1,21 @@
+{
+    "name": "patjawat/yii2-usermanager",
+    "description": "ระบบจัดการ user",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "patjawat",
+            "email": "patjawat@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "patjawat\\usermanager\\": ""
+        }
+    }
+}
